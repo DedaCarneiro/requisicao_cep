@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(202, 218, 231);
+}
+
+form{
+    width: 250px;
+    background: white;
+    padding: 26px;
+    /* display: flex;
+    flex-direction: column; */
+    border-radius: 8px;
+    box-shadow: 0 5px 10px black;
+    
+    
+}
+label{
+    display: block;
+    font-weight: bold;
+}
+
+input{
+    width: 230px;
+    height: 36px;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    border: 5px;
+    border: 2px solid;
+    padding-left: 10px;
+}
+/* button{
+    margin: auto;
+} */
